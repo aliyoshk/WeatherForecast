@@ -1,0 +1,13 @@
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/bin/Debug/netstandard2.1/WeatherForecast.Service.Contract.deps.json
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/bin/Debug/netstandard2.1/WeatherForecast.Service.Contract.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/bin/Debug/netstandard2.1/WeatherForecast.Service.Contract.pdb
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/bin/Debug/netstandard2.1/WeatherForecast.Domain.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/bin/Debug/netstandard2.1/WeatherForecast.Domain.pdb
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/obj/Debug/netstandard2.1/WeatherForecast.Service.Contract.csproj.AssemblyReference.cache
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/obj/Debug/netstandard2.1/WeatherForecast.Service.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/obj/Debug/netstandard2.1/WeatherForecast.Service.Contract.AssemblyInfoInputs.cache
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/obj/Debug/netstandard2.1/WeatherForecast.Service.Contract.AssemblyInfo.cs
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/obj/Debug/netstandard2.1/WeatherForecast.Service.Contract.csproj.CoreCompileInputs.cache
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/obj/Debug/netstandard2.1/WeatherForecast.Service.Contract.csproj.CopyComplete
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/obj/Debug/netstandard2.1/WeatherForecast.Service.Contract.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/obj/Debug/netstandard2.1/WeatherForecast.Service.Contract.pdb

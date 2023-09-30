@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WeatherForecast.Domain
+build_property.ProjectDir = /Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/

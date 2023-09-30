@@ -1,0 +1,17 @@
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/bin/Debug/netstandard2.1/WeatherForecast.Service.Implementation.deps.json
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/bin/Debug/netstandard2.1/WeatherForecast.Service.Implementation.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/bin/Debug/netstandard2.1/WeatherForecast.Service.Implementation.pdb
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/bin/Debug/netstandard2.1/WeatherForecast.Config.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/bin/Debug/netstandard2.1/WeatherForecast.Domain.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/bin/Debug/netstandard2.1/WeatherForecast.Service.Contract.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/bin/Debug/netstandard2.1/WeatherForecast.Config.pdb
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/bin/Debug/netstandard2.1/WeatherForecast.Domain.pdb
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/bin/Debug/netstandard2.1/WeatherForecast.Service.Contract.pdb
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/obj/Debug/netstandard2.1/WeatherForecast.Service.Implementation.csproj.AssemblyReference.cache
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/obj/Debug/netstandard2.1/WeatherForecast.Service.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/obj/Debug/netstandard2.1/WeatherForecast.Service.Implementation.AssemblyInfoInputs.cache
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/obj/Debug/netstandard2.1/WeatherForecast.Service.Implementation.AssemblyInfo.cs
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/obj/Debug/netstandard2.1/WeatherForecast.Service.Implementation.csproj.CoreCompileInputs.cache
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/obj/Debug/netstandard2.1/WeatherForecast.Service.Implementation.csproj.CopyComplete
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/obj/Debug/netstandard2.1/WeatherForecast.Service.Implementation.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/obj/Debug/netstandard2.1/WeatherForecast.Service.Implementation.pdb

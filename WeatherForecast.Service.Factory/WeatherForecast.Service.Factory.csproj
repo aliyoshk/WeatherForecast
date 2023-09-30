@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WeatherForecast.Config\WeatherForecast.Config.csproj" />
+    <ProjectReference Include="..\WeatherForecast.Service.Contract\WeatherForecast.Service.Contract.csproj" />
+    <ProjectReference Include="..\WeatherForecast.Service.Mock\WeatherForecast.Service.Mock.csproj" />
+    <ProjectReference Include="..\WeatherForecast.ViewModel\WeatherForecast.ViewModel.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Autofac" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="7.1.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{CE2ED781-1028-4AA3-AB09-393EA36D4B88}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.1.2" />
+  <MonoDevelop.Ide.ItemProperties.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_XL_API_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/Screens/HomeActivity.cs" relfile="WeatherForecast.Droid/Screens/HomeActivity.cs" line="36" column="1" />
+    <Breakpoint file="/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/Screens/HomeActivity.cs" relfile="WeatherForecast.Droid/Screens/HomeActivity.cs" line="20" column="1" />
+    <Breakpoint file="/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.ViewModel/BaseVM.cs" relfile="WeatherForecast.ViewModel/BaseVM.cs" line="15" column="1" />
+    <Breakpoint file="/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Factory/ServiceFactory.cs" relfile="WeatherForecast.Service.Factory/ServiceFactory.cs" line="14" column="1" />
+    <Breakpoint file="/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/Network/ApiError.cs" relfile="WeatherForecast.Domain/Network/ApiError.cs" line="7" column="1" />
+    <Breakpoint file="/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/Base/RestClient.cs" relfile="WeatherForecast.Service.Implementation/Base/RestClient.cs" line="326" column="1" />
+    <Breakpoint file="/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/Screens/MainActivity.cs" relfile="WeatherForecast.Droid/Screens/MainActivity.cs" line="26" column="1" />
+    <Breakpoint file="/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/Screens/SplashActivity.cs" relfile="WeatherForecast.Droid/Screens/SplashActivity.cs" line="20" column="1" />
+    <Breakpoint file="/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/Screens/WeatherDataActivity.cs" relfile="WeatherForecast.Droid/Screens/WeatherDataActivity.cs" line="52" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeatherForecast.Droid AndroidDesignerPreferredTheme="AppTheme" PreferredExecutionTarget="Android.Pixel_4_XL_API_30" AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherForecast.Droid/Utils/MemoryManager.cs">
+    <Files>
+      <File FileName="WeatherForecast.Droid/Screens/SplashActivity.cs" />
+      <File FileName="WeatherForecast.Droid/Resources/layout/activity_splash.xml" />
+      <File FileName="WeatherForecast.Droid/Screens/WeatherDataActivity.cs" Line="74" Column="14" />
+      <File FileName="WeatherForecast.Droid/Resources/layout/activity_weather_data.xml" Line="14" Column="27" />
+      <File FileName="WeatherForecast.Domain/Response/WeatherResponse.cs" Line="7" Column="18" />
+      <File FileName="WeatherForecast.Service.Implementation/DataService.cs" Line="15" Column="1" />
+      <File FileName="WeatherForecast.Service.Implementation/Base/RestClient.cs" Line="326" Column="1" />
+      <File FileName="WeatherForecast.Droid/Screens/MainActivity.cs" Line="66" Column="1" />
+      <File FileName="WeatherForecast.Droid/Utils/MemoryManager.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherForecast" expanded="True">
+            <Node name="WeatherForecast.Droid" expanded="True">
+              <Node name="Utils" expanded="True">
+                <Node name="MemoryManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

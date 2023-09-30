@@ -1,0 +1,530 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/WeatherForecast.Droid.csproj": {}
+  },
+  "projects": {
+    "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/WeatherForecast.Config.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/WeatherForecast.Config.csproj",
+        "projectName": "WeatherForecast.Config",
+        "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/WeatherForecast.Config.csproj",
+        "packagesPath": "/Users/aliyukhalifa/.nuget/packages/",
+        "outputPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliyukhalifa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj",
+        "projectName": "WeatherForecast.Domain",
+        "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj",
+        "packagesPath": "/Users/aliyukhalifa/.nuget/packages/",
+        "outputPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliyukhalifa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/WeatherForecast.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/WeatherForecast.Droid.csproj",
+        "projectName": "WeatherForecast.Droid",
+        "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/WeatherForecast.Droid.csproj",
+        "packagesPath": "/Users/aliyukhalifa/.nuget/packages/",
+        "outputPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Droid/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/aliyukhalifa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/WeatherForecast.Config.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/WeatherForecast.Config.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Factory/WeatherForecast.Service.Factory.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Factory/WeatherForecast.Service.Factory.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/WeatherForecast.Service.Implementation.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/WeatherForecast.Service.Implementation.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Mock/WeatherForecast.Service.Mock.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Mock/WeatherForecast.Service.Mock.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.ViewModel/WeatherForecast.ViewModel.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.ViewModel/WeatherForecast.ViewModel.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj",
+        "projectName": "WeatherForecast.Service.Contract",
+        "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj",
+        "packagesPath": "/Users/aliyukhalifa/.nuget/packages/",
+        "outputPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliyukhalifa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Factory/WeatherForecast.Service.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Factory/WeatherForecast.Service.Factory.csproj",
+        "projectName": "WeatherForecast.Service.Factory",
+        "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Factory/WeatherForecast.Service.Factory.csproj",
+        "packagesPath": "/Users/aliyukhalifa/.nuget/packages/",
+        "outputPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Factory/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliyukhalifa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/WeatherForecast.Config.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/WeatherForecast.Config.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Mock/WeatherForecast.Service.Mock.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Mock/WeatherForecast.Service.Mock.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.ViewModel/WeatherForecast.ViewModel.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.ViewModel/WeatherForecast.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/WeatherForecast.Service.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/WeatherForecast.Service.Implementation.csproj",
+        "projectName": "WeatherForecast.Service.Implementation",
+        "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/WeatherForecast.Service.Implementation.csproj",
+        "packagesPath": "/Users/aliyukhalifa/.nuget/packages/",
+        "outputPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliyukhalifa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/WeatherForecast.Config.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Config/WeatherForecast.Config.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Mock/WeatherForecast.Service.Mock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Mock/WeatherForecast.Service.Mock.csproj",
+        "projectName": "WeatherForecast.Service.Mock",
+        "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Mock/WeatherForecast.Service.Mock.csproj",
+        "packagesPath": "/Users/aliyukhalifa/.nuget/packages/",
+        "outputPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Mock/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliyukhalifa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/WeatherForecast.Service.Implementation.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/WeatherForecast.Service.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.ViewModel/WeatherForecast.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.ViewModel/WeatherForecast.ViewModel.csproj",
+        "projectName": "WeatherForecast.ViewModel",
+        "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.ViewModel/WeatherForecast.ViewModel.csproj",
+        "packagesPath": "/Users/aliyukhalifa/.nuget/packages/",
+        "outputPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.ViewModel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliyukhalifa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/WeatherForecast.Domain.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Contract/WeatherForecast.Service.Contract.csproj"
+              },
+              "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/WeatherForecast.Service.Implementation.csproj": {
+                "projectPath": "/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Service.Implementation/WeatherForecast.Service.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

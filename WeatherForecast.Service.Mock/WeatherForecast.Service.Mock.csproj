@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WeatherForecast.Service.Contract\WeatherForecast.Service.Contract.csproj" />
+    <ProjectReference Include="..\WeatherForecast.Service.Implementation\WeatherForecast.Service.Implementation.csproj" />
+  </ItemGroup>
+</Project>

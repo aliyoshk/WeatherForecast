@@ -1,0 +1,10 @@
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/bin/Debug/netstandard2.1/WeatherForecast.Domain.deps.json
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/bin/Debug/netstandard2.1/WeatherForecast.Domain.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/bin/Debug/netstandard2.1/WeatherForecast.Domain.pdb
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/obj/Debug/netstandard2.1/WeatherForecast.Domain.csproj.AssemblyReference.cache
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/obj/Debug/netstandard2.1/WeatherForecast.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/obj/Debug/netstandard2.1/WeatherForecast.Domain.AssemblyInfoInputs.cache
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/obj/Debug/netstandard2.1/WeatherForecast.Domain.AssemblyInfo.cs
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/obj/Debug/netstandard2.1/WeatherForecast.Domain.csproj.CoreCompileInputs.cache
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/obj/Debug/netstandard2.1/WeatherForecast.Domain.dll
+/Users/aliyukhalifa/Projects/WeatherForecast/WeatherForecast.Domain/obj/Debug/netstandard2.1/WeatherForecast.Domain.pdb
